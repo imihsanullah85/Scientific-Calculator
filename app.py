@@ -3,7 +3,7 @@ import streamlit as st
 import math
 
 # Title
-st.title("Scientific Calculator")
+st.title("Scientific Calculator for Hamza developed by Ihsan Ullah")
 
 # Input fields
 st.write("Enter numbers and select the operation to perform:")
